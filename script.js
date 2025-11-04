@@ -1,4 +1,4 @@
-<script>
+
       let isSidebarOpen = false;
 
 document.querySelector('.sidebar-toggle').addEventListener('click', () => {
@@ -38,6 +38,3 @@ sidebarList.addEventListener('click', function(event) {
     }
 });
 
-
-
-  </script>
